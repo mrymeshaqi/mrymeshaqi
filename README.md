@@ -2,7 +2,7 @@
 a young and dynamic **web developer** with a passion for innovation. My journey in the world of front-end technologies is one of constant learning and growth. Let's go together and push the limits of what's possible through collaborative ingenuity and forward-thinking solutions.
 
 ## my expertise
-<img src="https://skillicons.dev/icons/?i=html,css,js,git,github" alt="Languages" />
+<img src="https://skillicons.dev/icons/?i=html,css,js,tailwind,git,github" alt="Languages" />
 <!--
 **sky-coder17/sky-coder17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
